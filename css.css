@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+.jeck {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.profile-info {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
